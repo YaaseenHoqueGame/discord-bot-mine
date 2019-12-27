@@ -83,4 +83,4 @@ Client.on("message", (message)=>{
 
 })
 
-Client.login('NjU4OTYyODY5MjY5OTU0NTYw.XgHZNw.20MCHoQ23-Myv7R_ff92NrYm1zY')
+Client.login(proccess.env.BOT_TOKEN)
